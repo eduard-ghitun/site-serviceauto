@@ -1,7 +1,8 @@
 import { mechanicBenefits } from '../data/content';
 import { SectionTitle } from './SectionTitle';
 
-const aboutBackgroundPath = '/src/assets/images/interior.jpeg';
+// Pune imaginile aici: public/images/
+const aboutBackgroundPath = '/images/interior.jpeg';
 
 export function About() {
   return (

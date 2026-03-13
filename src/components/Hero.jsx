@@ -1,7 +1,8 @@
 import { contact } from '../data/content';
 import { Icon } from './IconSet';
 
-const heroImagePath = '/src/assets/images/WhatsApp%20Image%202026-03-13%20at%2014.25.46.jpeg';
+// Pune imaginile aici: public/images/
+const heroImagePath = '/images/service-1.jpeg';
 
 export function Hero() {
   return (

@@ -2,7 +2,8 @@ import { serviceItems } from '../data/content';
 import { Icon } from './IconSet';
 import { SectionTitle } from './SectionTitle';
 
-const servicesImagePath = '/src/assets/images/WhatsApp%20Image%202026-03-13%20at%2014.25.19.jpeg';
+// Pune imaginile aici: public/images/
+const servicesImagePath = '/images/service-2.jpeg';
 
 export function Services() {
   return (
